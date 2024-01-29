@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Note : this project is licensed under the GNU Affero General Public License v3.0
+
 ---------------------------------------------------------------------------------------
 
 To run this application you just need flutter setup in your machine and a android device
