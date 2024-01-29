@@ -19,5 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 
 To run this application you just need flutter setup in your machine and a android device
 
-run below command
-### Flutter run
+Run below command
+`Flutter run`
